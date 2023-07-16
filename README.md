@@ -6,5 +6,6 @@ Volume Button: Provide a convenient volume control feature for adjusting audio l
 Responsive Design: Ensure the website adapts seamlessly to different screen sizes and devices.
 Artist Names and Song Titles: Display relevant information about artists and songs for enhanced user experience.
 Attractive Images: Utilize visually appealing images to enhance the aesthetics of the website.
-![image](https://github.com/Ramanjaneyulu81/Musicwebsite/assets/130755001/5935f5ce-ccc2-49b9-92f1-bc13209ea49c)
+![image](https://github.com/Ramanjaneyulu81/Musicwebsite/assets/130755001/cd59418c-7d7b-4627-9600-b9e1274a569b)
+
 
